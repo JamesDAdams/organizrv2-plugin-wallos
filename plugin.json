@@ -1,6 +1,6 @@
 {
     "Stripe": {
-      "repo": "https://github.com/JamesDAdams/organizrv2-api-plugins-stripe",
+      "repo": "https://github.com/JamesDAdams/organizrv2-plugin-wallos",
       "author": "JamesAdams",
       "category": "Utilities",
       "description": "test",
