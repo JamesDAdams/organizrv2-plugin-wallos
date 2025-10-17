@@ -4,7 +4,7 @@
       "author": "JamesAdams",
       "category": "Utilities",
       "description": "test",
-      "icon": "https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png",
+      "icon": "https://freelogopng.com/images/all_img/1685814539wallos-icon-png.png",
       "contact": "jamesadams@jamesadams.com",
       "website": "https://organizr.app",
       "version": "1.0.0",
@@ -15,8 +15,8 @@
       "project_folder": "wallos",
       "license": "personal,business",
       "images": {
-        "Main": "https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png",
-        "Alternative": "https://freelogopng.com/images/all_img/1685814539stripe-icon-png.png"
+        "Main": "https://freelogopng.com/images/all_img/1685814539wallos-icon-png.png",
+        "Alternative": "https://freelogopng.com/images/all_img/1685814539wallos-icon-png.png"
       }
     }
   }
