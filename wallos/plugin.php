@@ -9,10 +9,10 @@ $GLOBALS['plugins']['Wallos'] = array( // Plugin Name
 	'idPrefix' => 'WALLOS', // html element id prefix (All Uppercase)
 	'configPrefix' => 'WALLOS', // config file prefix for array items without the hypen (All Uppercase)
 	'version' => '1.0.0', // SemVer of plugin
-	'image' => 'data/plugins/stripe/logo.png', // 1:1 non transparent image for plugin
+	'image' => 'data/plugins/wallos/logo.png', // 1:1 non transparent image for plugin
 	'settings' => true, // does plugin need a settings modal?
 	'bind' => true, // use default bind to make settings page - true or false
-	'api' => 'api/v2/plugins/stripe/settings', // api route for settings page (All Lowercase)
+	'api' => 'api/v2/plugins/wallos/settings', // api route for settings page (All Lowercase)
 	'homepage' => true // Is plugin for use on homepage? true or false
 );
 
