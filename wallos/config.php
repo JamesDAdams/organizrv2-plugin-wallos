@@ -4,5 +4,5 @@
  * Along with all your other settings from plugin.php
  */
 return array(
-	'STRIPE-wallos' => false
+	'WALLOS-enabled' => false
 );
